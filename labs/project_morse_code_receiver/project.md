@@ -5,7 +5,7 @@
 * Dominik Vaško 
 * Jan Mucha 
 * Martin Paseka 
-* Gabriel Škápík
+* Gabriel Škápík 
 
 Link to your GitHub project folder:
 
