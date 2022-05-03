@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed May  4 01:07:19 2022
+# Process ID: 17448
+# Current directory: D:/DE1/digital-electronics-1/labs/project_morse_code/project_morse_code.runs/synth_1
+# Command line: vivado.exe -log TOP.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source TOP.tcl
+# Log file: D:/DE1/digital-electronics-1/labs/project_morse_code/project_morse_code.runs/synth_1/TOP.vds
+# Journal file: D:/DE1/digital-electronics-1/labs/project_morse_code/project_morse_code.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source TOP.tcl -notrace
