@@ -97,7 +97,7 @@ Picture number two is simulated phrase "SOS" in morse code.
 
 In the next video we will shortly introduce you to our project.
 
-[YOUTUBE VIDEO]()
+[YOUTUBE VIDEO](https://www.youtube.com/watch?v=x1lLtcQBlRY&ab_channel=JanMucha)
 
 [PRESENTATION](https://vutbr-my.sharepoint.com/:p:/g/personal/xmucha11_vutbr_cz/EfuMuLWZGjlKjdNw_ewh3QQBPMM-HOBnsedU1G0o26pXcA?e=4Flh2b)
 
